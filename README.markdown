@@ -1,3 +1,6 @@
+
+[![GuardRails badge](https://badges.production.guardrails.io/Korben00/Wallbase-Downloader.svg)](https://www.guardrails.io)
+
 <p>
 	<a href="http://wallbase.cc" target="_blank">wallbase.cc</a> is an excellent site to download wallpapers with an option to search through the wallpapers database which are tagged.<br />
 	But with literally a huge database it takes ages to download the wallpapers to browse and download.<br />
